@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Rainer Jung",
+    "label": "Software Development / Architecture / Devops",
+    "picture": "https://rynr.github.io/rainer_jung.png",
+    "email": "Rainer.Jung@gmail.com",
+    "phone": "+49 176 62843300",
+    "website": "https://about.me/rjung",
+    "summary": "Java, Ruby on Rails and JavaScript Developer · Architect · Agile-/Scrum-Enthusiast · Musician · Singer · Snowboarder · Biker · Rock-Climber · Diver",
+    "location": {
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Bavaria"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "rjung",
+      "url": "https://twitter.com/rjung"
+    }, {
+      "network": "Linkedin",
+      "url": "https://www.linkedin.com/in/rainerjung"
+    }, {
+      "network": "Xing",
+      "url": "https://www.xing.com/profile/Rainer_Jung"
+    }]
+  },
+  "work": [{
+    "company": "SinnerSchrader Deutschland GmbH",
+    "position": "Senior Software Developer",
+    "website": "https://sinnerschrader.com/",
+    "startDate": "2014-11-01",
+    "summary": "Development of Services for BMW.",
+    "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization"]
+  }, {
+    "company": "FriendScout24 GmbH",
+    "position": "Expert Developer / Architect",
+    "website": "https://friendscout24.de/",
+    "startDate": "2010-11-01",
+    "endDate": "2014-10-31",
+    "summary": "Development and Architecture around the sites of Frienscot24 and the mobile activities to a service-oriented architecture.",
+    "highlights": ["ruby", "rest", "java", "javascript", "microservices", "continuous-integration", "continuous-deployment"]
+  }, {
+    "company": "AutoScout24 GmbH",
+    "position": "Senior Developer CRM",
+    "website": "https://autoscout24.com/",
+    "startDate": "2006-07-01",
+    "endDate": "2010-10-31",
+    "summary": "I created the internal CRM- and invoicing-system.",
+    "highlights": ["ruby-on-rails", "postgresql", "encryption", "pdf"]
+  }, {
+    "company": "the virtual solution consulting GmbH",
+    "position": "Senior Software Developer",
+    "website": "https://virtual-solution.com/",
+    "startDate": "2005-08-15",
+    "endDate": "2006-06-30",
+    "summary": "I created business-software for a big german leasing company to handle their assets.",
+    "highlights": ["java", "spring", "junit"]
+  }, {
+    "company": "SevenOne Intermedia GmbH",
+    "position": "System-Developer",
+    "website": "http://www.prosiebensat1digital.de/",
+    "startDate": "2000-06-01",
+    "endDate": "2005-07-31",
+    "summary": "I was responsible for the development of all kind of activities for the websites, mobile applications and the teletext of the ProSiebenSat.1 Media AG.",
+    "highlights": ["perl", "relational-database", "sms", "mobile"]
+  }],
+  "education": [{
+    "institution": "Technische Hochschule Karlsruhe",
+    "area": "Elektrotechnics"
+  }, {
+    "institution": "Universität Karlsruhe",
+    "area": "Elektrotechnics"
+  }, {
+    "institution": "Universität Heidelberg",
+    "area": "Mathematics/Physics"
+  }],
+  "skills": [{
+    "name": "Architecture",
+    "level": "master",
+    "keywords": []
+  }, {
+    "name": "Java Development",
+    "level": "master",
+    "keywords": ["java", "spring", "jdbc"]
+  }, {
+    "name": "Ruby Development",
+    "level": "master",
+    "keywords": ["ruby", "rails", "ruby on rails"]
+  }, {
+    "name": "JavaScript Development",
+    "level": "master",
+    "keywords": ["javascript"]
+  }]
+}

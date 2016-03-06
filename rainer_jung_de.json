@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Rainer Jung",
+    "label": "Software Entwicklung / Architektur / Devops",
+    "picture": "https://rynr.github.io/rainer_jung.png",
+    "email": "Rainer.Jung@gmail.com",
+    "phone": "+49 176 62843300",
+    "website": "https://about.me/rjung",
+    "summary": "Java, Ruby on Rails and JavaScript Entwickler · Architekt · Agile-/Scrum-Enthusiast · Musiker · Sänger · Snowboarder · Biker · Kletterer · Taucher",
+    "location": {
+      "city": "München",
+      "countryCode": "DE"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "rjung",
+      "url": "https://twitter.com/rjung"
+    },
+    {
+      "network": "Linkedin",
+      "url": "https://www.linkedin.com/in/rainerjung"
+    },
+    {
+      "network": "Xing",
+      "url": "https://www.xing.com/profile/Rainer_Jung"
+    }]
+  },
+  "work": [{
+    "company": "SinnerSchrader Deutschland GmbH",
+    "position": "Senior Software Entwickler",
+    "website": "https://sinnerschrader.com/",
+    "startDate": "2014-11-01",
+    "summary": "Entwicklung von Services für die ERetail-Strategie von BMW",
+    "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization"]
+  }, {
+    "company": "FriendScout24 GmbH",
+    "position": "Expert Developer / Architect",
+    "website": "https://friendscout24.de/",
+    "startDate": "2010-11-01",
+    "endDate": "2014-10-31",
+    "summary": "Entwicklung und Architektur der Webseiten und mobilen Anwendungen er FriendScout24.",
+    "highlights": ["ruby", "rest", "java", "javascript", "microservices", "continuous-integration", "continuous-deployment"]
+  }, {
+    "company": "AutoScout24 GmbH",
+    "position": "Senior Entwickler CRM",
+    "website": "https://autoscout24.com/",
+    "startDate": "2006-07-01",
+    "endDate": "2010-10-31",
+    "summary": "Ich erstellte das interne CRM- un Rechnungs-System",
+    "highlights": ["ruby-on-rails", "postgresql", "verschlüsselung", "pdf"]
+  }, {
+    "company": "the virtual solution consulting GmbH",
+    "position": "Senior Software Developer",
+    "website": "https://virtual-solution.com/",
+    "startDate": "2005-08-15",
+    "endDate": "2006-06-30",
+    "summary": "Für eine große deutsche Leasing-Firma erstellte ich Business-Anwenungen um intern ihre Assets zu verwalten.",
+    "highlights": ["java", "spring", "junit"]
+  }, {
+    "company": "SevenOne Intermedia GmbH",
+    "position": "System-Developer",
+    "website": "http://www.prosiebensat1digital.de/",
+    "startDate": "2000-06-01",
+    "endDate": "2005-07-31",
+    "summary": "Ich war für die Entwicklung unterschiedlicher Systeme für ie Webseiten, mobilen Applikationen und den Teletext der ProSiebenSat.1 Media AG.",
+    "highlights": ["perl", "relational-database", "sms", "mobile"]
+  }],
+  "education": [{
+    "institution": "Technische Hochschule Karlsruhe",
+    "area": "Elektrotechnik"
+  }, {
+    "institution": "Universität Karlsruhe",
+    "area": "Elektrotechnik"
+  }, {
+    "institution": "Universität Heidelberg",
+    "area": "Mathematik/Physik"
+  }]
+}
