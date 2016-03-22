@@ -77,7 +77,7 @@
   "skills": [{
     "name": "Architecture",
     "level": "master",
-    "keywords": []
+    "keywords": ["microservices"]
   }, {
     "name": "Java Development",
     "level": "master",

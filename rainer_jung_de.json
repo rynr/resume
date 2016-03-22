@@ -74,5 +74,22 @@
   }, {
     "institution": "Universität Heidelberg",
     "area": "Mathematik/Physik"
+  }],
+  "skills": [{
+    "name": "Architecture",
+    "level": "master",
+    "keywords": ["microservices"]
+  }, {
+    "name": "Java Development",
+    "level": "master",
+    "keywords": ["java", "spring", "jdbc"]
+  }, {
+    "name": "Ruby Development",
+    "level": "master",
+    "keywords": ["ruby", "rails", "ruby on rails"]
+  }, {
+    "name": "JavaScript Development",
+    "level": "master",
+    "keywords": ["javascript"]
   }]
 }
