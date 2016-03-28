@@ -78,7 +78,7 @@
   "skills": [{
     "name": "Architecture",
     "level": "master",
-    "keywords": ["microservices"]
+    "keywords": ["microservices", "cloud", "devops"]
   }, {
     "name": "Java Development",
     "level": "master",
@@ -89,7 +89,6 @@
     "keywords": ["ruby", "rails", "ruby on rails"]
   }, {
     "name": "JavaScript Development",
-    "level": "master",
     "keywords": ["javascript"]
   }]
 }
