@@ -29,8 +29,8 @@
     "position": "Senior Software Developer",
     "website": "https://sinnerschrader.com/",
     "startDate": "2014-11-01",
-    "summary": "Development of Services for BMW.",
-    "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization"]
+    "summary": "Development of Online-Retail-Services for BMW and CMS for Allianz.",
+    "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization", "cms"]
   }, {
     "company": "FriendScout24 GmbH",
     "position": "Expert Developer / Architect",
