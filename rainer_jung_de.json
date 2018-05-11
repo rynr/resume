@@ -6,7 +6,7 @@
     "email": "Rainer.Jung@gmail.com",
     "phone": "+49 176 62843300",
     "website": "https://about.me/rjung",
-    "summary": "Java, Ruby on Rails and JavaScript Entwickler · Architekt · Agile-/Scrum-Enthusiast · Musiker · Sänger · Snowboarder · Biker · Kletterer · Taucher",
+    "summary": "Java, JavaScript und Ruby on Rails Entwickler · Architekt · Agile-/Scrum-Enthusiast · Musiker · Sänger · Snowboarder · Biker · Kletterer · Taucher",
     "location": {
       "city": "München",
       "countryCode": "DE"
@@ -15,6 +15,10 @@
       "network": "Twitter",
       "username": "rjung",
       "url": "https://twitter.com/rjung"
+    },
+    {
+      "network": "stackoverflow",
+      "url": "https://stackoverflow.com/users/1903347/rainer-jung"
     },
     {
       "network": "Linkedin",
@@ -30,7 +34,7 @@
     "position": "Senior Software Entwickler",
     "website": "https://sinnerschrader.com/",
     "startDate": "2014-11-01",
-    "summary": "Entwicklung von Services für Online-Retail-Strategie von BMW and CMS for Allianz.",
+    "summary": "Entwicklung von Services für Online-Retail-Strategie von BMW and CMS für Allianz und Comdirect.",
     "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization", "cms"]
   }, {
     "company": "FriendScout24 GmbH",
