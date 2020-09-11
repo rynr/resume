@@ -28,10 +28,18 @@
     }]
   },
   "work": [{
+    "company": "FlixMobility Tech GmbH",
+    "position": "Senior Software Developer",
+    "website": "https://flixbus.com/",
+    "startDate": "2019-04-01",
+    "summary": "Settlement-Software for Buspartner",
+    "highlights": ["java", "javascript", "aws", "gitlab", "finance"]
+  }, {
     "company": "SinnerSchrader Deutschland GmbH",
     "position": "Senior Software Developer",
     "website": "https://sinnerschrader.com/",
     "startDate": "2014-11-01",
+    "endDate": "2019-03-31",
     "summary": "Development of Online-Retail-Services for BMW and CMS for Allianz and Comdirect.",
     "highlights": ["java", "javascript", "solr", "oracle", "continuous-integration", "virtualization", "cms"]
   }, {
